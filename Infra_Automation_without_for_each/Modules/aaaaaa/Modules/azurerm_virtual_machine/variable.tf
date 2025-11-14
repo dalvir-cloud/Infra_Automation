@@ -1,0 +1,9 @@
+variable "rg_name" {}       
+variable "location" {}
+variable "nic_name" {}
+variable "vm_name" {}
+variable "subnet_data_name" {}
+variable "vnet_name" {}
+variable "kv_name" {}
+variable "usernamesecretname" {}
+variable "usernamesecretpassword" {}
