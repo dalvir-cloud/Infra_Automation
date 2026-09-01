@@ -1,0 +1,2 @@
+resource_group_name,location,environment
+myapp-rg,East US,dev
