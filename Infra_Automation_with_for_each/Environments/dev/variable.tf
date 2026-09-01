@@ -3,6 +3,7 @@ variable "subscription_id" {
   type        = string
 }
 
+
 variable "rg_details" {}
 # variable "storage_account_details" {}
 # variable "nsg_details" {}
