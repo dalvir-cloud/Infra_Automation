@@ -4,10 +4,10 @@ variable "subscription_id" {
 }
 
 variable "rg_details" {}
-variable "storage_account_details" {}
-variable "nsg_details" {}
-variable "vnet_details" {}
-variable "subnet_details" {}
-variable "pip_details" {}
-variable "vm_details" {}
-variable "kv_details" {}
+# variable "storage_account_details" {}
+# variable "nsg_details" {}
+# variable "vnet_details" {}
+# variable "subnet_details" {}
+# variable "pip_details" {}
+# variable "vm_details" {}
+# variable "kv_details" {}
