@@ -1,2 +1,4 @@
 resource_group_name,location,environment
 myapp-rg,East US,dev
+xyz-rg,East US,dev
+gfz-rg,East US,dev
